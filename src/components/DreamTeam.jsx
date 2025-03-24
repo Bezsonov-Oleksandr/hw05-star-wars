@@ -36,15 +36,3 @@ const DreamTeam = () => {
 };
 
 export default DreamTeam;
-// section className="float-end w-50 row border rounded-bottom-4 ms-2 me-0">
-//     <h2 className="col-sm-12 text-center">Dream Team</h2>
-// <img className="col-sm-4 p-1" src={friend1} alt="Friend"/>
-// <img className="col-sm-4 p-1" src={friend2} alt="Friend"/>
-// <img className="col-sm-4 p-1" src={friend3} alt="Friend"/>
-// <img className="col-sm-4 p-1" src={friend4} alt="Friend"/>
-// <img className="col-sm-4 p-1" src={friend5} alt="Friend"/>
-// <img className="col-sm-4 p-1" src={friend6} alt="Friend"/>
-// <img className="bottomLeft col-sm-4 p-1" src={friend7} alt="Friend"/>
-// <img className="col-sm-4 p-1" src={friend8} alt="Friend"/>
-// <img className="bottomRight col-sm-4 p-1" src={friend9} alt="Friend"/>
-// </section
